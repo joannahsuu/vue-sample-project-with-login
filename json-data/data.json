@@ -1,0 +1,8 @@
+{
+  "customers": [
+    { "id": 1, "first_name": "John", "last_name": "Smith", "phone": "219-839-2819" },
+    { "id": 2, "first_name": "Doe", "last_name": "Smith", "phone": "219-839-2819" },
+    { "id": 3, "first_name": "Ben", "last_name": "Smith", "phone": "219-839-2819" },
+    { "id": 4, "first_name": "John", "last_name": "Smith", "phone": "219-839-2819" }
+  ]
+}
